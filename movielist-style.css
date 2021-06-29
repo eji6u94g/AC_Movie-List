@@ -1,0 +1,13 @@
+#view-style-apps, #view-style-list {
+  cursor: pointer;
+}
+
+div.d-flex.flex-row.justify-content-between {
+  border: 1px solid rgba(0, 0, 0, 0.1);
+  border-radius: 5px;
+  margin-top: 5px;
+}
+
+h5.list-title {
+  padding-top: 8px;
+}
